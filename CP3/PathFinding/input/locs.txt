@@ -1,0 +1,3 @@
+id,town,time,x,y,height,cost
+,,,0,0,,
+,,,34,34,,
