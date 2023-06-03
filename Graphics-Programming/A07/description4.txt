@@ -1,0 +1,4 @@
+[ | | | | | | | ]
+ ^flag to use either 3 or 7 bytes
+  change 3 and 7 to be statistically determined
+  flag also gives you knowledge on the least sum

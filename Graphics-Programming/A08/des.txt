@@ -1,0 +1,14 @@
+make picture of diff of two images in a grid
+
+blur along diagonal
+    - make pic 1 pix smaller in each dim
+    - gaussian kernel multiplied by diagonal kernel
+make it lighter close to center diagonal
+
+compress as mpeg
+
+overlap blurred imgs on each side
+
+graph cut
+    - 3D stack of imgs
+    - cut through imgs at most optimal place
